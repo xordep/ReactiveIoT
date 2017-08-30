@@ -1,0 +1,26 @@
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\RabbitRx.Core.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\RabbitRx.Core.pdb
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\System.Reactive.Core.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\System.Reactive.Core.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\obj\Debug\RabbitRx.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\obj\Debug\RabbitRx.Core.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Core\obj\Debug\RabbitRx.Core.pdb
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\RabbitRx.Core.dll
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\RabbitRx.Core.pdb
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\System.Reactive.Core.dll
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\System.Reactive.Core.xml
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\obj\Debug\RabbitRx.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\obj\Debug\RabbitRx.Core.dll
+C:\Users\Jean\Desktop\Reactive\New Version\Authorization\RabbitRx.Core\obj\Debug\RabbitRx.Core.pdb
