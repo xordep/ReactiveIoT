@@ -1,0 +1,34 @@
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\RabbitRx.Json.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\RabbitRx.Json.pdb
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\RabbitRx.Core.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\System.Reactive.Core.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\RabbitRx.Core.pdb
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\System.Reactive.Core.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\obj\Debug\RabbitRx.Json.csprojResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\obj\Debug\RabbitRx.Json.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Json\obj\Debug\RabbitRx.Json.pdb
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\RabbitRx.Json.dll
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\RabbitRx.Json.pdb
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\RabbitRx.Core.dll
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\System.Reactive.Core.dll
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\RabbitRx.Core.pdb
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\System.Reactive.Core.xml
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\obj\Debug\RabbitRx.Json.csprojResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\obj\Debug\RabbitRx.Json.dll
+C:\Users\Jean\Desktop\Reactive\New Version\ContextProcessor\RabbitRx.Json\obj\Debug\RabbitRx.Json.pdb
