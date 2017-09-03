@@ -1,0 +1,30 @@
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\RabbitRx.Advanced.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\RabbitRx.Advanced.pdb
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\RabbitRx.Core.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\System.Reactive.Core.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\RabbitRx.Core.pdb
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\System.Reactive.Core.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\obj\Debug\RabbitRx.Advanced.csprojResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\obj\Debug\RabbitRx.Advanced.dll
+C:\Users\Jean\Desktop\Reactive\RabbitRx-master\RabbitRx-master\src\RabbitRx.Advanced\obj\Debug\RabbitRx.Advanced.pdb
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\RabbitRx.Advanced.dll
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\RabbitRx.Advanced.pdb
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\RabbitRx.Core.dll
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\System.Reactive.Core.dll
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\RabbitRx.Core.pdb
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\System.Reactive.Core.xml
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\obj\Debug\RabbitRx.Advanced.csprojResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\obj\Debug\RabbitRx.Advanced.dll
+C:\Users\Jean\Desktop\Reactive\New Version\SyntacticAnalyzer\RabbitRx.Advanced\obj\Debug\RabbitRx.Advanced.pdb
